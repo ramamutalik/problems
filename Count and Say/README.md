@@ -1,4 +1,4 @@
-- [Count and Say]().
+- [Count and Say](https://leetcode.com/problems/count-and-say/).
 `Medium`
 
 ### The count-and-say sequence is a sequence of digit strings defined by the recursive formula:
